@@ -7,6 +7,7 @@ namespace gtest
         public static void Main(string[] args)
         {
             Console.WriteLine("Hello World of Coen - changed!");
+            hdfghdfghdf
         }
     }
 }
